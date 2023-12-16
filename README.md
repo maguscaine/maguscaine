@@ -14,7 +14,7 @@
 - [Splunk]()
 - [Burp Suite](https://github.com/maguscaine)
 - [Create a KeyLogger (C#)](https://github.com/maguscaine)
-- [Malware Analysis Lab Results](https://github.com/maguscaine)
+- [Malware Analysis Lab Observations](https://github.com/maguscaine)
 
 <h2> 🤳 Connect with me:</h2>
 
