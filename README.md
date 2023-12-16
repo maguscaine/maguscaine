@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Securing Cloud Environments</b>
-  - [Build a Home Lab in AWS](https://github.com/maguscaine)
+  - [Build a Home Lab in AWS](https://github.com/maguscaine](https://github.com/maguscaine/Build-A-Home-Lab-in-AWS.git)
   - [Microsoft Azure](https://github.com/maguscaine)
 - <b>Application Security Testing</b>
   - [Malware Analysis Lab](https://github.com/maguscaine)
