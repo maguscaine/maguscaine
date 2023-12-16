@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian! <br/><a href="[https://github.com/joshmadakor1](https://github.com/maguscaine#hi-im-sebastian-programmer-cybersecurity-professional-youtuber)">Programmer</a>, <a href="[https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BRXCSq06rRsW%2BXOJGelyqJg%3D%3D]">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sebastian! <br/><a href="https://github.com/joshmadakor1](https://github.com/maguscaine#hi-im-sebastian-programmer-cybersecurity-professional-youtuber">Programmer</a>, <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BRXCSq06rRsW%2BXOJGelyqJg%3D%3D">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
