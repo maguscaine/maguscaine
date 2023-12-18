@@ -6,16 +6,16 @@
   - [Build a Home Lab in AWS](https://github.com/maguscaine/Build-A-Home-Lab-in-AWS.git)
     
 - <b>Application Security Testing</b>
-  - [Malware Analysis Lab](https://github.com/maguscaine)
+  - [Malware Analysis Lab]()
  
     
 <h2>📺 Skills, Application Labs, Observations</h2>
 
 - [NMAP Network Scanning]()
 - [Splunk]()
-- [Burp Suite](https://github.com/maguscaine)
-- [Create a KeyLogger (C#)](https://github.com/maguscaine)
-- [Malware Analysis Lab Observations](https://github.com/maguscaine)
+- [Burp Suite]()
+- [Create a KeyLogger (C#)]()
+- [Malware Analysis Lab Observations]()
 
 <h2> 🤳 Connect with me:</h2>
 
