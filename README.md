@@ -9,8 +9,9 @@
   - [Malware Analysis Lab](https://github.com/maguscaine)
  
     
-<h2>📺 Cybersecurity Labs/Observations</h2>
+<h2>📺 Skills, Application Labs, Observations</h2>
 
+- [NMAP Network Scanning]()
 - [Splunk]()
 - [Burp Suite](https://github.com/maguscaine)
 - [Create a KeyLogger (C#)](https://github.com/maguscaine)
